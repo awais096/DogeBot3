@@ -29,7 +29,7 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/hamza096/LoserBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/hamza096/LoserBot3/blob/master/session.json#L1)
 
 ## `SETTINGS`
 
@@ -46,7 +46,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot3/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hamza096/LoserBot3/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -74,8 +74,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/hamza096/LoserBot2
-🦄 cd DogeBot3
+🦄 git clone https://github.com/hamza096/LoserBot3
+🦄 cd LoserBot3
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm start
